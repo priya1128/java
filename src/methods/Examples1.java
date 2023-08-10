@@ -1,6 +1,6 @@
 package methods;
 
-public class Examples1 {
+public class Repetitive_Addition {
 
     int len(int n){
         int l=0;
